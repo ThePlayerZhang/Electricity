@@ -1,5 +1,5 @@
 # Electricity
-#### *一个使用python的2D游戏制作工具*
+#### <font color=#b0b0b0>*一个使用python的2D游戏制作工具*</font>
 
 ---
 
@@ -36,9 +36,9 @@
 - #### 显示类
   - image：渲染图片（需要在data指定图片路径）
   - rect：渲染纯色方形（需要在data指定放开的颜色）
-  - ~~func：使用代码渲染（需要在data指定代码）~~ （未实现）
+  - <font color=#f0f0f0>~~func：使用代码渲染（需要在data指定代码）~~ （未实现）</font>
 - #### 交互类
-  - wall：空气墙（可配合image使用）
+  - wall：空气墙 <font color=#b0b0b0>*可配合image使用*</font>
   - portal：传送门
   - trigger：触发器（由 玩家/物体/NPC 触碰触发）
   - button：按钮（由鼠标点击触发）
