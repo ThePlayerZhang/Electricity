@@ -1,0 +1,11 @@
+{
+  "name": "TestMap01",
+  "background": "#003e92",
+  "data": [
+    {
+      "type": "rect",
+      "pos": [0, 0, 0, 0],
+      "data": "#f2f2f2"
+    }
+  ]
+}
